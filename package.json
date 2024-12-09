@@ -1,0 +1,18 @@
+{
+  "devDependencies": {
+    "cypress": "^13.16.1"
+  },
+  "dependencies": {
+    "node": "^20.5.0"
+  },
+  "name": "fortis-qa-challenge",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "cypress run",
+    "cypress:open": "cypress open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
